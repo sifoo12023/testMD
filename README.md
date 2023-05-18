@@ -1,5 +1,5 @@
 # testMD
-this is to test making a idea sharing place. 
+This sample file was copied from [stackEdit.io](https://stackEdit.io) directly without changing. 
 
 
 # Welcome to StackEdit!
