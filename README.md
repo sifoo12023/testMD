@@ -1,5 +1,5 @@
-# testMD
-This sample file was copied from [stackEdit.io](https://stackEdit.io) directly without changing. 
+# How does Markdown work
+This sample file was copied from [stackEdit.io](https://stackEdit.io) directly without changing, please read the code for this markdown page and figure out the syntax for how to create the readme page. 
 
 
 # Welcome to StackEdit!
